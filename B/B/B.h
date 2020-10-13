@@ -19,6 +19,4 @@
 //声明导出函数  使用extern "C" 告诉编译器要使用C语言的方式去编译
 extern "C" DLLAPI int sub(int a, int b);
 
-extern "C" DLLAPI int sub(int a, int b);
-
 #endif
